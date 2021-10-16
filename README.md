@@ -791,8 +791,12 @@ Here You Can Download the All Study Materials of your Branches According to the 
     <h1 class="heading"> ABOUT SUPPORTERS</h1>
 
     <hr color="red">
-                       <img src="unnamed (1).jpg"  class="center">
- <div class="box-container">
+	<div class="box-container">
+	<div class="box">
+                       <img src="unnamed (1).jpg">
+		</div>
+		</div>
+	<div class="box-container">
 
         <div class="box">
            <img src="hod_h&s.jpg">
