@@ -143,7 +143,7 @@ header label{
     display: flex;
     align-items: center;
     justify-content: center;
-    background:url(../images/home-bg-img.png) no-repeat;
+    background:url(home-bg-img.png) no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -222,7 +222,7 @@ header label{
 }
 
 .about{
-    background:url(../images/about-bg.png) no-repeat;
+    background:url(about-bg.png) no-repeat;
     background-size: cover;
     background-position: center;
     padding-bottom: 3rem;
@@ -502,7 +502,7 @@ header label{
 
 .footer{
     padding-top: 3rem;
-    background:url(../images/footer-bg.png) no-repeat;
+    background:url(footer-bg.png) no-repeat;
     background-size: cover;
     background-position: center;
 }
